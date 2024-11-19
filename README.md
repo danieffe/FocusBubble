@@ -35,7 +35,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone git@github.com:n0rthk1n9/FocusBubble.git](https://github.com/danieffe/FocusBubble.git
+   git clone https://github.com/danieffe/FocusBubble.git
    ```
 2. Open the project in Xcode.
 3. Run the app on a simulator or a connected device.
